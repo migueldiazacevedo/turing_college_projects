@@ -9,7 +9,7 @@ see package details at: https://test.pypi.org/project/calculator-pkg-MAD/
 
 You can use the `Calculator` class by importing it into your Python project. Here's how you can do it:
 
-$ pip install -i https://test.pypi.org/simple/ calculator-pkg-MAD==0.1.0
+$ pip install -i https://test.pypi.org/simple/ calculator-pkg-MAD==0.1.1
 
 ```python
 from calculator_pkg_MAD.calculator import Calculator
