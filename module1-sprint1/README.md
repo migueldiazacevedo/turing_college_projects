@@ -2,14 +2,17 @@
 
 A simple Python class for performing basic arithmetic operations. This `Calculator` class allows you to perform addition, subtraction, multiplication, division, and nth root calculations.
 
+see more details at https://github.com/migueldiazacevedo/turing_college_projects/tree/main/module1-sprint1
+see package details at: https://test.pypi.org/project/calculator-pkg-MAD/
+
 ## Installation
 
 You can use the `Calculator` class by importing it into your Python project. Here's how you can do it:
 
-$ pip install calculator_pkg
+$ pip install -i https://test.pypi.org/simple/ calculator-pkg-MAD==0.1.0
 
 ```python
-from calculator_pkg.calculator import Calculator
+from calculator_pkg_MAD.calculator import Calculator
 
 # Create an instance of the Calculator
 calculator = Calculator()
